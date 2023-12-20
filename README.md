@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning about project management and Team management and (M&E)
 - 💞️ I’m also learning how to be happy in life and be at the moment.
-- 📫 How to reach me  (naser.nikzad@ild.edu.af, m.n.nikzad2000@gmail.com, 0789357846), LinkedIn (naser-nikzad)
+- 📫 How to reach me  (naser.nikzad@ild.edu.af, m.n.nikzad2000@gmail.com, 0789357846), LinkedIn [naser-nikzad](https://www.linkedin.com/in/naser-nikzad)
 
 <!---
 naser-af/naser-af is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
